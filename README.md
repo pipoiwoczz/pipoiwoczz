@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Lê Ngọc Anh Khoa
+<h1 align="center">Hi, I'm Lê Ngọc Anh Khoa 👋</h1>
+
 
 <p align="center">
   <b>AI Engineer Intern | Computer Science Student @ HCMUS</b><br/>
